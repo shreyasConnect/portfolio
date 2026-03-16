@@ -18,4 +18,3 @@ This is my personal portfolio website where I showcase my projects, technical sk
 - JavaScript
 - React.js
 
-## 📂 Project Structure
