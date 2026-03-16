@@ -32,11 +32,12 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="/resume.pdf"
-                className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
-              >
-                Download Resume
-              </a>
+  href="/resume.pdf"
+  download
+  className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
+>
+  Download Resume
+</a>
             </div>
           </div>
 
